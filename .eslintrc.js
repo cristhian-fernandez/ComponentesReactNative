@@ -14,6 +14,7 @@ module.exports = {
     'curly':0,
     'quotes':0,
     'react-hooks/exhaustive-deps':0,
+    'react/self-closing-comp':0,
   },
   overrides: [
     {
